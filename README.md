@@ -1,0 +1,1 @@
+Eat and Split is a simple React application designed to make splitting bills among friends easier and more efficient. Whether you're sharing a meal, splitting rent, or managing shared expenses, Eat and Split helps you keep track of who owes what and settle up effortlessly.
